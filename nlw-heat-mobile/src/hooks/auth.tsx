@@ -3,7 +3,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as AuthSessions from 'expo-auth-session';
 import { api } from '../services/api';
 
-const CLIENT_ID = '56091b99219874a4a301';
+const CLIENT_ID = '';
 const SCOPE = 'read:user';
 const USER_STORAGE = '@nlwheat:user';
 const TOKEN_STORAGE = '@nlwheat:token';
